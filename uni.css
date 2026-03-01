@@ -8,11 +8,27 @@
     color: #fff;
 }
 a{
-    margin:180px;
+    margin:160px;
 }
 input{
     color:black;
 }
 button{
     color:black
+}
+#a299{
+    background-color: black;
+    border-radius: 10px;
+}
+#a9{
+    margin-block-start: 0px;
+    margin-block-end: 0px;
+    color:orange;
+}
+#a8{
+    align-items: center;
+}
+video{
+    display:block;
+    margin:auto;
 }
